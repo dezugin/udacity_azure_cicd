@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  vmImage: 'udacity'
+  vmImage: ubuntu-latest
 
 steps:
 
